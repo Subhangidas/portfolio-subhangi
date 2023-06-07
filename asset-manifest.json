@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Subhangidas/portfolio-subhangi/static/css/main.cb8f305a.css",
+    "main.js": "/Subhangidas/portfolio-subhangi/static/js/main.f13c0c2a.js",
+    "static/js/512.e014088b.chunk.js": "/Subhangidas/portfolio-subhangi/static/js/512.e014088b.chunk.js",
+    "static/media/cat-typing.gif": "/Subhangidas/portfolio-subhangi/static/media/cat-typing.a0cbfddb95dfec700afb.gif",
+    "static/media/subhangi-circle.png": "/Subhangidas/portfolio-subhangi/static/media/subhangi-circle.fa472b634b196c97ea69.png",
+    "static/media/mountain.png": "/Subhangidas/portfolio-subhangi/static/media/mountain.b19dbf26d975bcb5b48d.png",
+    "index.html": "/Subhangidas/portfolio-subhangi/index.html",
+    "main.cb8f305a.css.map": "/Subhangidas/portfolio-subhangi/static/css/main.cb8f305a.css.map",
+    "main.f13c0c2a.js.map": "/Subhangidas/portfolio-subhangi/static/js/main.f13c0c2a.js.map",
+    "512.e014088b.chunk.js.map": "/Subhangidas/portfolio-subhangi/static/js/512.e014088b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8f305a.css",
+    "static/js/main.f13c0c2a.js"
+  ]
+}
